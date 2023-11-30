@@ -3,3 +3,6 @@
 ```
 Tenha uma excelente tarde de compras.
 ```
+- [ ] compras do dia
+- [x] limpeza da casa
+- [ ] cuidados pessoais
