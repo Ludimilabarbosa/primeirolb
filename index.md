@@ -3,5 +3,3 @@
 ```
 Tenha uma excelente tarde de compras.
 ```
-
-
